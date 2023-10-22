@@ -38,6 +38,6 @@ SCRIPT 100% AMAN DAN WORK
 - hasil
 
 
-![](https://github.com/fahadsyihab06/spam-wa/blob/master/Screenshot_2023-10-22-11-05-57-14.png)
+![](https://github.com/fahadsyihab06/spam-wa/Screenshot_2023-10-22-11-05-57-14.png)
 
               
