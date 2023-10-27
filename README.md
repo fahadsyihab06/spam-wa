@@ -15,11 +15,13 @@ pkg install git
 git clone https://github.com/fahadsyihab06/spam-wa
 cd spam-wa
 python spam-wa.py
+
+selesai_<
 ```
 # tutorial 
 
 Tutorialnya di yt klik link di bawah
-
+https://youtu.be/4Vl4W0Ov-7w?si=-eaLXB0O2FH6Fa5q
 
 # Warnning
                  Perhatian
